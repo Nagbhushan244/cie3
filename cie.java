@@ -22,6 +22,7 @@ public class cie {
             System.out.println("3 - Maximum of array");
             System.out.println("4 - Minimum of array");
             System.out.println("5 - Exit");
+            System.out.println("6 - Calculated");
 
             choice = scanner.nextInt();
 
